@@ -1,4 +1,4 @@
-# Earthquake Data Analysis in South America
+# Earthquake Data Analysis in Perú
 
 ## Project Description
 This project analyzes historical earthquake data to identify patterns in magnitude, depth, and geographic distribution.
